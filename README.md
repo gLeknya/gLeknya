@@ -1,3 +1,17 @@
 <h1 align="center"> ГLek </h1>
-<h3 align="center"> top 1 po adekvatnosti </h3>
-w
+<h3 align="center"> SMARTEST people on the earth </h3>
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  
+</div>
